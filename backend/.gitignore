@@ -1,0 +1,8 @@
+PORT=5000
+CLIENT_ID=clientid
+CLIENT_SECRET=secret_key
+REDIRECT_URI=http://localhost:5000/auth/azure/callback
+FRONTEND_URL=http://localhost:3000
+TENANT_ID=tenantid
+AZURE_ORG=organisationname
+AZURE_PAT=pat
